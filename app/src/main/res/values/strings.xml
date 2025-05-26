@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TryBubble</string>
+    <string name="start">スタート</string>
+    <string name="stop">ストップ</string>
+    <string name="gameOver">ゲームオーバー</string>
+    <string name="explosion">爆発</string>
+    <string name="line">セーバー</string>
+</resources>
